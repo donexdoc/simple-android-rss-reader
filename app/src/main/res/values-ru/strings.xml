@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rss читалка</string>
+
+    <string name="dialog_title">Предупреждение!</string>
+    <string name="dialog_no_internet_connection">Нет соединения с Интернетом</string>
+    <string name="dialog_retry">Повторить</string>
+    <string name="dialog_exit">Выйти</string>
+    <string name="dialog_back">Назад</string>
+
+    <string name="rss_empty">RSS лента пуста</string>
+
+    <string name="pagination_page">Страница </string>
+    <string name="pagination_of"> из </string>
+</resources>
